@@ -1,6 +1,4 @@
-import React, {useState} from 'react'
-import "../style/Login.css"
-import firebase from './firebase-config';
+
 
 function Login() {
    

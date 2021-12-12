@@ -1,8 +1,6 @@
 import React from 'react'
 import "../style/AddFound.css"
 const AddFound = () => {
-
-  
     
     return (
       <div class="main-block">
